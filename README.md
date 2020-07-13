@@ -2,7 +2,7 @@
 
 ## Hi there I'm Cahyadi Triyansyah
 
-[![SunDi3yansyah.id](https://img.shields.io/static/v1?label=SunDi3yansyah.id&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.SunDi3yansyah.id)
+[![sundi3yansyah.com](https://img.shields.io/static/v1?label=sundi3yansyah.com&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://sundi3yansyah.com)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/SunDi3yansyah/)
 
 I am a Software Engineer at Tangerang, I work remotely.
