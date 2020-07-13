@@ -7,6 +7,6 @@
 
 I am a Software Engineer at Tangerang, I work remotely.
 
-- ⚙️ Stack: Ruby, Ruby on Rails, SQL, AWS, PHP
+- ⚙️ Stack: Ruby, Ruby on Rails, PHP, SQL, AWS
 - 🏢 I'm currently working on some **Ruby Projects**
 - 🌱 I'm currently learning about Python, Elixir, Go, Java, Node.js
