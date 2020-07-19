@@ -10,6 +10,6 @@
 
 I am a Software Engineer at RestoRocket (Tangerang, Indonesia), I work remotely 💻
 
-- ⚙️ Stack: Ruby, Ruby on Rails, PHP, SQL, AWS
-- 🏢 I'm currently working on some **Ruby Projects**
-- 🌱 I'm currently learning about Python, Elixir, Go, Java, Node.js
+- ⚙️ Stack: `Ruby`, `Ruby on Rails`, `PHP`, `SQL`, `AWS`
+- 🏢 I'm currently working on some `Ruby Projects`
+- 🌱 I'm currently learning about `Python`, `Elixir`, `Go`, `Java`, `Node.js`
