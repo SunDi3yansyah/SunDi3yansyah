@@ -8,8 +8,8 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=flat-square&logoColor=blue)](https://t.me/SunDi3yansyah)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/sundi3yansyah/)
 
-I am a Software Engineer at RestoRocket (Tangerang, Indonesia), I work remotely 💻
+I am a Software Engineer at PT. ART && PT. BDA (Tangerang, Indonesia), I work remotely 💻
 
 - ⚙️ Stack: `Ruby`, `Ruby on Rails`, `PHP`, `SQL`, `AWS`
 - 🏢 I'm currently working on some `Ruby Projects`
-- 🌱 I'm currently learning about `Python`, `Elixir`, `Go`, `Java`, `Node.js`
+- 🌱 I'm currently learning about `Python`, `Elixir`, `Go`, `Java`
